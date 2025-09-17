@@ -1,0 +1,1 @@
+// Example router setup (React Router or similar can be used)
