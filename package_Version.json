@@ -1,0 +1,13 @@
+{
+  "name": "roblox-login-site",
+  "version": "1.0.0",
+  "description": "Roblox login site starter",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
